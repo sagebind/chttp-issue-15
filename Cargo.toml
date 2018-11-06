@@ -1,0 +1,9 @@
+[package]
+name = "chttp-issue-15"
+version = "0.1.0"
+authors = ["Stephen M. Coakley <me@stephencoakley.com>"]
+
+[dependencies]
+chttp = "0.2"
+env_logger = "0.5"
+grpcio = "0.4"
