@@ -14,6 +14,7 @@ version = "0.1.0"
 dependencies = [
  "curl 0.4.18 (registry+https://github.com/rust-lang/crates.io-index)",
  "grpcio 0.4.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "grpcio-sys 0.4.0 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
 [[package]]
