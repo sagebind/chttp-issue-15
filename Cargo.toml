@@ -4,6 +4,5 @@ version = "0.1.0"
 authors = ["Stephen M. Coakley <me@stephencoakley.com>"]
 
 [dependencies]
-curl = "0.4.18"
-grpcio = "0.4"
 grpcio-sys = "0.4"
+openssl = "0.10"
